@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1543726630 source:c:\users\kenneth alvarez\desktop\actividad4\main.cpp
+	<iostream>
+	"Grafo.h"
+
+1543724074 c:\users\kenneth alvarez\desktop\actividad4\include\grafo.h
+	<iostream>
+	<string>
+
+1543726684 source:c:\users\kenneth alvarez\desktop\actividad4\src\grafo.cpp
+	"Grafo.h"
+
